@@ -1,0 +1,6 @@
+{
+  "name": "API_REST_NODE",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
